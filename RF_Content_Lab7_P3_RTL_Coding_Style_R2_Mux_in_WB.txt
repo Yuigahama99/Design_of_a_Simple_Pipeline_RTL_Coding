@@ -1,0 +1,5 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/ee457_lab7_P3_tb/UUT/reg_file
+// format=mti addressradix=h dataradix=h version=1.0 wordsperline=15
+0: 0008 0009 000c 0025 000a 000d 0043 0041 0102 0043 0043 0044 0044 0041 003e
+f: 0042 
