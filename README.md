@@ -16,3 +16,4 @@ In this lab the operations to be performed (the instructions to be executed) are
 
 The design has 5 pipeline stages: Instruction Fetch (IF), Instruction Decode (ID), Execution Stage 1 (EX1), Execution Stage 2 (EX2), and Write Back Stage (WB). In EX1 we have a subtractor to subtract a constant of 3 (given A, it produces A - 3). In EX2, we have an adder to add a constant of 4 (given A, it produces A + 4). Using these resources, we can perform a
 MOV or a SUB3 or a ADD4 or even a ADD1. The ADD1 operation requires performing both operations, SUB3 and ADD4. The MOV operation requires neither operation.
+![image](https://user-images.githubusercontent.com/76589915/144181712-f7372916-f320-4d7c-b018-fe60ae0152a9.png)
